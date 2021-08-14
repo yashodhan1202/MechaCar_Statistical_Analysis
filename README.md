@@ -22,7 +22,7 @@
 ## T-Tests on Suspension Coils
 - All manufacturing Lots
   A review of the results of the T-test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-   value is not low enough (0.0603) for us to reject the null hypothesis.
-
+  [!Image](https://github.com/yashodhan1202/MechaCar_Statistical_Analysis/blob/main/All_Lots_TTest.png)
 
 - Lot 1
   A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low       enough (1) for us to reject the null hypothesis.
