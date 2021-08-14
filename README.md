@@ -36,7 +36,7 @@
   
   A review of the results of the T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low       enough (0.6072) for us to reject the null hypothesis.
 
- ![Image](https://github.com/yashodhan1202/MechaCar_Statistical_Analysis/blob/main/Lot2_TTest.png)
+  ![Image](https://github.com/yashodhan1202/MechaCar_Statistical_Analysis/blob/main/Lot2_TTest.png)
 
 - Lot 3
   
